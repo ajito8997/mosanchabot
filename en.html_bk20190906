@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html class="wide wow-animation smoothscroll desktop landscape rd-navbar-static-linked" lang="en">
+
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <!-- Site Title -->
+        <title>Telemor Mosan</title>
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <link rel="icon" href="images/mosan-icon-32x32.png" type="image/x-icon">
+        <link rel="icon" href="images/mosan-icon-32x32.png" sizes="32x32">
+        <link rel="icon" href="images/mosan-icon-192x192.png" sizes="192x192">
+        <link rel="apple-touch-icon-precomposed" href="images/mosan-icon-180x180.png">
+        <meta name="msapplication-TileImage" content="images/mosan-icon-270x270.png">
+
+        <link rel="canonical" href="https://mosan.telemor.tl/">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content="Mosan.telemor.tl">
+        <meta name="description" content="Telemor Mosan Service">
+        <meta name="keywords" content="Telemor,mosan">
+        <!-- META FOR FACEBOOK -->
+        <meta property="fb:app_id" content="224491271057409">
+        <meta content="Telemor Mosan" property="og:site_name">
+        <meta property="og:url" itemprop="url" content="https://mosan.telemor.tl/">
+        <meta property="og:image" itemprop="thumbnailUrl" content="https://mosan.telemor.tl/images/mosan-thumbnailUrl.jpg">
+        <meta property="og:title" content="Telemor Mosan" itemprop="headline">
+        <meta content="Mosan is a money transfer service allowing customer to send and receive money in a faster, safer and more convenient way than traditional money transfer method." itemprop="description" property="og:description">
+
+
+        <!--<link href="https://fonts.googleapis.com/css?family=Roboto:400,300%7CMontserrat" rel="stylesheet" type="text/css">-->
+        <!--<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i" rel="stylesheet">--> 
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+        <!-- Bootstrap 3.3.7 -->
+        <!--<link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">-->
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/slick-theme.css">
+        <link rel="stylesheet" href="css/style.css">
+        <!--[if lt IE 10]>
+        <script src="js/html5shiv.min.js"></script>
+        <![endif]-->
+        <style type="text/css">
+            .cf-hidden { display: none; } 
+            .cf-invisible { visibility: hidden; }
+        </style>
+        <style type="text/css" id="igtranslator-color"></style>
+    </head>
+
+    <body>
+        <!-- The Main Wrapper -->
+        <div class="page">
+            <!--For older internet explorer-->
+            <div class="old-ie" style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;">
+                <a href="https://windows.microsoft.com/en-US/">
+                    <img src="images/ie8-panel/warning_bar_0000_us.jpg" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." width="820" height="42">
+                </a>
+            </div>
+            <!--END block for older internet explorer-->
+
+            <!--========================================================
+                                      HEADER
+            =========================================================-->
+            <header class="page-header">
+                <!-- RD Navbar -->
+                <div class="rd-navbar-wrap">
+                    <nav class="rd-navbar" data-rd-navbar-lg="rd-navbar-static">
+                        <div class="rd-navbar-inner">
+                            <!-- RD Navbar Panel -->
+                            <div class="rd-navbar-panel">
+                                <div class="rd-navbar-panel-canvas"></div>
+                                <!-- RD Navbar Toggle -->
+                                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar"><span></span></button>
+                                <!-- END RD Navbar Toggle -->
+                                <div class="language">
+                                    <a class="te" href="index.html">Tetun</a>
+                                </div>
+
+                                <!-- RD Navbar Brand -->
+                                <div class="rd-navbar-brand">
+
+                                </div>
+                                <!-- END RD Navbar Brand -->
+                            </div>
+                            <!-- END RD Navbar Panel -->
+
+                            <div class="rd-navbar-nav-wrap">
+                                <!-- RD Navbar Nav -->
+                                <ul class="rd-navbar-nav">
+                                    <li>
+                                        <a href="#whatismosan">What is Mosan</a>
+                                    <li>
+                                        <a href="#whymosan">Why Mosan</a>
+                                    </li>
+                                    <li>
+                                        <a href="#moneytransfer">Money transfer</a>
+                                    </li>
+                                    <li>
+                                        <a href="#register">Mosan account</a>
+                                    </li>
+                                    <li>
+                                        <a href="#becomeagent">Become Agent</a>
+                                    </li>
+                                </ul>
+                                <!-- END RD Navbar Nav -->
+                            </div>
+                        </div>
+                    </nav>                    
+                </div>
+                <!-- END RD Navbar -->
+            </header>
+            <!--========================================================
+                                      CONTENT
+            =========================================================-->
+            <main class="page-content">
+
+                <section class="slider">
+                    <div>
+                        <picture>
+                            <source srcset="images/mosan-slide-01-mobile.png" media="(max-width: 480px)">
+                            <source srcset="images/mosan-slide-01.png">
+                            <img src="images/mosan-slide-01.png" alt="">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <source srcset="images/mosan-slide-02-mobile.png" media="(max-width: 480px)">
+                            <source srcset="images/mosan-slide-02.png">
+                            <img src="images/mosan-slide-02.png" alt="" style="width:auto;">
+                        </picture>
+                    </div>
+                </section>
+
+                <section id="whatismosan" data-type="anchor">
+                    <div class="container">
+                        <h3 class="title text-green text-italic">What is Mosan?</h3>
+
+                        <div class="text-6 text-italic description">Mosan is a money transfer service allowing customer to send and
+                            receive money in a <strong>faster, safer and more convenient way</strong> than
+                            traditional money transfer method.
+                        </div>
+
+                        <div class="row">
+                            <div class="col-xs-3 bg-icon" style="background-image: url(images/mosan-09.png)"></div>
+                            <div class="col-xs-9 border-left">
+                                <h4 class="text-green text-italic">
+                                    Customers who not yet had a Mosan account
+                                </h4>
+                                <div>
+                                    Can send and receive money by going to one of Telemor agents and 
+                                    verify the transaction by showing their identity information. 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top: 0">
+                            <div class="col-xs-3"></div>
+                            <div class="col-xs-9">
+                                <a href="#moneytransfer" class="btn-scroll btn btn-success">Learn how</a>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-xs-3 bg-icon" style="background-image: url(images/mosan-10.png)"></div>
+                            <div class="col-xs-9 border-left">
+                                <h4 class="text-green text-italic">
+                                    Customers already had Mosan account
+                                </h4>
+                                <div>
+                                    Can store money in their account and instantly transfer their money 
+                                    to other account by just accessing *111# on their mobile phone. 
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row" style="margin-top: 0">
+                            <div class="col-xs-3"></div>
+                            <div class="col-xs-9">
+                                <a href="#register" class="btn-scroll btn btn-success">Learn how</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="whymosan" data-type="anchor">
+                    <div class="container">
+                        <div>
+                            <img alt="" src="images/mosan-05.png" style="width: 100%; height: auto"/>
+                        </div>
+                        <div class="row row-head">
+                            <div class="col-xs-6 text-right">
+                                <h4 class="text-blue text-italic">No more waiting, it’s fast!</h4>
+                            </div>
+                            <div class="col-xs-6 text-left">
+                                <h4 class="text-blue text-italic">Attractive pricing policy</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6 text-right">
+                                <div class="text">
+                                    Money transfer now takes you less
+                                    than 2 minutes and is available during
+                                    weekends.
+                                </div>
+                            </div>
+                            <div class="col-xs-6 text-left">
+                                <div class="text">
+                                    Mosan is the best deal in comparison with other ongoing money transfer services
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row row-head">
+                            <div class="col-xs-6 text-right">
+                                <h4 class="text-blue text-italic">
+                                    Nationwide network of agents
+                                </h4>
+                            </div>
+                            <div class="col-xs-6 text-left">
+                                <h4 class="text-blue text-italic">
+                                    Safe and secure
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6 text-right">
+                                <div class="text">
+                                    Widespread network of agents in every
+                                    districts in Timor-Leste
+                                </div>
+                            </div>
+                            <div class="col-xs-6 text-left">
+                                <div class="text">
+                                    2-layer security with secret code and
+                                    Identity information
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="moneytransfer" data-type="anchor">
+                    <div class="container">
+                        <div class="title">
+                            <h3 class="text-blue">Transfer money instantly</h3>
+                            <h4 class="text-blue">Using your identity information</h4>
+                        </div>
+                        <p class="text-des">
+                            You  just  need  to  bring  your  money  and  identity  information  to  your  nearest  
+                            Mosan agent. It’s easy and safe to transfer the money to anywhere around the 
+                            country.
+                        </p>
+                        <p class="text-guide">
+                            Click  on  each  of  the  followings  to  explore  how  to  transfer  money  using  your  
+                            identity information:
+                        </p>
+                        <div class="collapsable-container">
+                            <div class="collapsable collapsable-slide">
+                                <div class="ca-control">How to <strong>send</strong> money using your identity info</div>
+                                <div class="ca-box">
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Bring your identity information (ID card/Voter card/Passport) and money to your nearest Mosan’s agent. Ask for money transfer services.
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Fill in the form. Show your identity information to agent staff and hand in the money. Note: You have to pay a small fee for sending money. For details, click “Fee”.
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Agent staff will process your request instantly. Once transaction has been successfully completed, you will receive a <strong>confirmation SMS (with a secret code)</strong> sent to your phone number. You also get a receipt (in paper) from the agent staff.
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> You give the secret code to the receiver so that he/she can use when receiving the money. Bear in mind to inform the receiver to bring his/her identity information and the secret code to his/her nearest Mosan agent to receive the money.
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        We encourage customers to register Mosan account to fully enjoy <strong>the convenience of mobile money services</strong> and <strong>a lower fee</strong>. With Mosan account, you can keep money in the account to buy pulsa, send and receive anytime, anywhere only with your handset (with Telemor connection). See: “Register for Mosan account for more convenience”
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <div class="ca-control">How to <strong>receive</strong> money using your identity info</div>
+                                <div class="ca-box">
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Bring your identity information (ID card/Voter card/Passport) and secret code from the sender to your nearest Mosan’s agent. Ask for receiving money. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Fill in the form. Show your identity information to agent staff. No fee applied for money receiver.
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Agent staff will process your request instantly. Once transaction has been successfully completed, you will get your cash and receive a <strong>confirmation SMS (with a secret code)</strong> sent to your phone number. You also get a receipt (in paper) from the agent staff.
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        We encourage customers to register for Mosan account to fully enjoy <strong>the convenience of mobile money services</strong> at <strong>a lower fee</strong>. With Mosan account, you can keep your money in the account to buy pulsa, send and receive anytime, anywhere only with your handset (with Telemor connection). See: “Register for Mosan account for more convenience”
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <div class="ca-control">Money transfer fee</div>
+                                <div class="ca-box">
+                                    <ul>
+                                        <li>
+                                            <strong>For senders who use Telemor mobile number</strong>: Money transfer fee is <strong>$1.5</strong> (paid by sender only). The fee of <strong>$2.0</strong> is applied for sender sending for than $200. 
+                                        </li>
+                                        <li>
+                                            <strong>For other senders</strong>: Money transfer fee is <strong>$2.5</strong> (paid by sender only). The fee of <strong>$3.0</strong> is applied for sender sending for than $200.
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-xs-12">
+                                <p class="text-support">
+                                    Still need support? Contact our call center
+                                </p>
+                                <a href="tel:166" class="btn btn-primary">Contact us</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                <section id="register" data-type="anchor">
+                    <div class="container">
+                        <h3 class="text-blue">Register for Mosan</h3>
+                        <h4 class="text-blue">to enjoy more convenience</h4>
+                        <p class="text-des">
+                            <span class="text-blue">Mosan account</span> is like a mobile “wallet” - a wallet operating on your mobile
+                            phone and is separated from your mobile account (used for telecom
+                            services). This mobile “wallet” allows you to keep your money, buy pulsa, send
+                            and receive money from others. You can also withdraw cash from your
+                            Mosan account in any of Telemor’s nationwide network of agents.
+                        </p>
+                        <p class="text-des">
+                            Notably, transactions on Mosan could be conducted anytime and anywhere.
+                            All you need is your phone with Telemor connection.
+                        </p>
+                        <p class="text-guide">
+                            Click on each of the followings to explore how you can enjoy Mosan services:
+                        </p>
+                        <div class="collapsable-container">
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Register and Activate your Mosan account
+                                </h5>
+                                <div class="ca-box">
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Bring your identity information (ID card/Voter card or Passport) to nearest Telemor’s agent and ask for service registration form.
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Fill in the form and show your identity information to agent staff. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> The agent staff would process your form right away and you will receive a confirmation SMS for successful registration. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> Activate your account by dialing *111# → Choose 5. Activate and follow the process. The system will then send a confirmation SMS to your mobile number once your account has been activated successfully.
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        Now, your Mosan account is active. 
+                                        You can start “Cash-in” money to your account and enjoy the conveniece of Mosan service. Click on “Store money in your account for transfer or payment” to know how to put money in your Mosan.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Keep money in your account for transfer or payment
+                                </h5>
+                                <div class="ca-box">
+                                    <p>
+                                        After activate your Mosan account, you should add money to your account. 
+                                        You can access your money and make transaction like sending, receiving money, buying pulsa using Mosan account by dialing *111#. 
+                                        Here are how you can add money to your Mosan account:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Bring your identity information (Voter card, ID card or passport)  and money to nearest Mosan’s agent. Ask the agent for “Cash-in”.
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Fill in the form, hand in the money and show your Identity information to agent staff. No fee applied for cash-in. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Agent staff will process your form right away and you will receive the transaction receipt and one SMS of confirmation. 
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        Now, the money has already been added to your Mosan account. You can use this money to buy pulsa or send to other people who have Mosan account. 
+                                    </p>
+                                    <p>
+                                        Click on “Transfer money in less than 2 minutes” to know how to send and receive money quickly using your Mosan account. 
+                                    </p>
+                                    <p>
+                                        See also: “Buy pulsa by Mosan account” to know how to buy pulsa anytime, anywhere using Mosan. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Transfer money in less than 2 minutes
+                                </h5>
+                                <div class="ca-box">
+                                    <p>
+                                        To be able to transfer money using Mosan account, you have to have money on your Mosan account. If you have not yet  added money to your account (cash-in), please see guidelines at “Store money in your account for transfer or payment”.
+                                    </p>
+                                    <p>
+                                        It’s simple to send money using Mosan account on your phone:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Call *111#
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Choose 1. Transfer
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Choose 1. To Mosan customer
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> Enter phone number of receiver:
+                                        </li>
+                                        <li>
+                                            <strong>Step 5:</strong> Enter amount of money ($)
+                                        </li>
+                                        <li>
+                                            <strong>Step 6:</strong> Enter content of transfer
+                                        </li>
+                                        <li>
+                                            <strong>Step 7:</strong> Enter your PIN:
+                                        </li>
+                                        <li>
+                                            <strong>Step 8:</strong> Choose 1. Confirm
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        You will receive a confirmation SMS once transaction is successful. Now, the money has been transferred from your Mosan account to the receiver’s account. The receiver can keep that amount of money to use in the future or go to his/her nearest Mosan’s agent to withdraw the cash.
+                                    </p>
+                                    <p>
+                                        Note: a small fee applied when you transfer money from your Mosan account to other’s. For details, check: “Pricing policy”. If you want to transfer money to one who doesn’t have a Mosan account, please go directly to the nearest Mosan agent. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Buy pulsa by Mosan account
+                                </h5>
+                                <div class="ca-box">
+                                    <p>
+                                        To be able to buy pulsa using Mosan account, you have to have money on your Mosan account. If you have not yet added money to your account (Cash-in), please see guidelines at “Store money in your account for transfer or payment”.
+                                    </p>
+                                    <p>
+                                        You can buy pulsa via Mosan account anytime, anywhere using these simple steps:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Call *111#
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Choose 3. payment
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Choose 1. Top-up
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> Enter phone number to top-up
+                                        </li>
+                                        <li>
+                                            <strong>Step 5:</strong> Enter amount of money ($)
+                                        </li>
+                                        <li>
+                                            <strong>Step 6:</strong> Enter your PIN
+                                        </li>
+                                        <li>
+                                            <strong>Step 7:</strong> Choose 1. Confirm
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        You will receive a confirmation SMS once transaction is successful. You can only buy pulsa for Telemor number.
+                                    </p>
+                                    <p>
+                                        Note: You get 6% discount for everytime buying pulsa using your Mosan account. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Withdraw money from Mosan account.
+                                </h5>
+                                <div class="ca-box">
+                                    <p>
+                                        If you want to withdraw the money on your Mosan account, here are the steps for you to follow: 
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Dial to *111# and choose Withdraw. Enter the amount of money you want to withdraw, your PIN and choose Confirm. The system will send to your phone number a SMS containing a secret code. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Bring your identity information (ID card/Voter card or Passport) and the secrete code to your nearest Mosan’s agent. Ask for money withdrawal.
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Fill in the form and show the agent your identity information. 
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> The agent staff will process your form right away and give you the money you wanted to withdraw. You also receive the receipt (in paper) and one confirmation SMS sent to your phone number.
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        Note: a small fee applied when you withdraw money from your Mosan account. For details, check: “Pricing policy”.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Safe way to change and reset your PIN (password)
+                                </h5>
+                                <div class="ca-box">
+                                    <p>
+                                        To change your PIN (password), please follow these steps:
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Step 1:</strong> Call *111#
+                                        </li>
+                                        <li>
+                                            <strong>Step 2:</strong> Choose 4. My account
+                                        </li>
+                                        <li>
+                                            <strong>Step 3:</strong> Choose 3. Change PIN/Reset PIN
+                                        </li>
+                                        <li>
+                                            <strong>Step 4:</strong> Choose 1. Change PIN:
+                                        </li>
+                                        <li>
+                                            <strong>Step 5:</strong> Enter your old PIN:
+                                        </li>
+                                        <li>
+                                            <strong>Step 6:</strong> Enter your new PIN:
+                                        </li>
+                                        <li>
+                                            <strong>Step 7:</strong> Confirm your new PIN
+                                        </li>
+                                    </ul>
+                                    <p>
+                                        If you forgot your PIN (password), please bring your identity information (ID card/voter card/passport) to the nearest agent to ask for a PIN reset. After that, you can setup a new PIN yourself by dialing *111#, choose 4. Account, choose 3. Reset PIN, enter the new PIN and choose Confirm. Upon successfully changed your password, the system will send a confirmation SMS to your phone number. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="collapsable collapsable-slide">
+                                <h5 class="ca-control">
+                                    Pricing policy
+                                </h5>
+                                <div class="ca-box">
+                                    <ul>
+                                        <li>
+                                            <strong>Fee for withdrawing money from Mosan account</strong>: $0.5 (The fee of $1 is applied for customer withdrawing more than $200)
+                                        </li>
+                                        <li>
+                                            <strong>Money transfer fee between Mosan account</strong>: $0.2 (The fee of $0.5 is applied for customer transfering more than $200)
+                                        </li>
+                                        <li>
+                                            <strong>Account setup, buying pulsa and cash-in (put money in your Mosan account) are FREE. </strong>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="becomeagent" data-type="anchor">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-10 col-sm-7 col-md-7 col-lg-7 title">
+                                <h3 class="text-blue">Become Mosan agent</h3>
+                                <h4>Join our nationwide agent network
+                                    <br/>in Timor-Leste!</h4>
+                            </div>
+                            <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+                                <img alt="" src="images/mosan-map-01.png"/>
+                            </div>
+                        </div>
+                        <table style="width: 100%">
+                            <tr>
+                                <td style="width: 8px;border: 2px solid #0271b6; border-right: none"></td>
+                                <td class="td-content">
+                                    Each Mosan agent is a part of our widespread agent network
+                                    over the country. Mosan agent is the transaction point to
+                                    support customers:
+                                    <ul>
+                                        <li>Send/receive money from Mosan Money transfer service.</li>
+                                        <li>Deposit/withdraw money from Mosan account.</li>
+                                        <li>Register for account and updating their information.</li>
+                                    </ul>
+                                </td>
+                                <td style="width: 8px;border: 2px solid #0271b6; border-left: none"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </section>
+
+                <section id="benefit" data-type="anchor">
+                    <div class="container text-center">
+                        <h3 class="text-blue">Benefits for Mosan agents</h3>
+                        <div class="row">
+                            <div class="col-xs-3 text-right">
+                                <img alt="" src="images/mosan-icon-01.png"/>
+                            </div>
+                            <div class="col-xs-9 text-left">
+                                <h6>         
+                                    Promising and fast growing service
+                                </h6>
+                                <p>
+                                    Since Mosan is a revolutionary mobile money service
+                                    that is simpler, safer, faster and more convenient for customer.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-9 text-right">
+                                <h6>          
+                                    Attractive commission per transaction
+                                </h6>
+                                <p>
+                                    Attractive % commission for agent
+                                    when customer Cash-in, Cash-out and transfer money
+                                </p>
+                            </div>
+                            <div class="col-xs-3 text-left">
+                                <img alt="" src="images/mosan-icon-02.png"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-3 text-right">
+                                <img alt="" src="images/mosan-icon-03.png"/>
+                            </div>
+                            <div class="col-xs-9 text-left">
+                                <h6>       
+                                    No expense for advertisement
+                                </h6>
+                                <p>
+                                    Store decorations all provided for free.
+                                    Booming advertising campaign to be ran by Telemor Fintech.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-9 text-right">
+                                <h6>   
+                                    No investment on store equipment
+                                </h6>
+                                <p>
+                                    The only thing you need to prepare
+                                    is your 2G, 3G or 4G handset
+                                </p>
+                            </div>
+                            <div class="col-xs-3 text-left">
+                                <img alt="" src="images/mosan-icon-04.png"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-3 text-right">
+                                <img alt="" src="images/mosan-icon-05.png"/>
+                            </div>
+                            <div class="col-xs-9 text-left">
+                                <h6>           
+                                    Gain more store traffic
+                                </h6>
+                                <p>
+                                    Attract more customer coming to store and buy other stuffs.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-center">
+                                <p class="text-support">
+                                    Interested in becoming Mosan agent? <br>Let’s contact us
+                                </p>
+                                <a href="tel:166" class="btn btn-primary">Contact us</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+            </main>
+            <!--========================================================
+                                      FOOTER
+            ==========================================================-->
+            <footer class="page-footer">
+                <div class="hotlink" style="background-color: #FEF200">
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-xs-4">
+                                <a href="#" class="ico-cc">Hotline:166</a>
+                            </div>
+                            <div class="col-xs-4">
+                                <a href="http://facebook.com/telemor.tl" class="ico-fb">/telemor.tl</a>
+                            </div>
+                            <div class="col-xs-4">
+                                <a href="http://telemor.tl" class="ico-3w">telemor.tl</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- copyright -->
+                <section class="well-xs">
+                    <div class="container">
+                        <p class="copyright">
+                            mosan.telemor.tl © <span id="copyright-year">2018</span>
+                            • <a href="http://mosan.telemor.tl" class="preffix-5"> Telemor</a>
+                            <!-- {%FOOTER_LINK} -->
+                        </p>
+                    </div>
+                </section>
+                <!-- END copyright -->
+            </footer>
+
+        </div>
+
+        <!-- jQuery 3 -->
+        <!--<script src="jquery/dist/jquery.min.js"></script>-->
+        <!-- Bootstrap 3.3.7 -->
+        <!--<script src="bootstrap/dist/js/bootstrap.min.js"></script>-->
+        <!-- Core Scripts -->
+        <script src="js/core.min.js"></script>
+        <!-- Additional Functionality Scripts -->
+        <script src="js/slick.min.js"></script>
+        <script src="jQueryCollapse/dist/jquery.collapsable.js"></script>
+        <script>
+            $(function () {
+                $('.slider').slick({
+                    slidesToScroll: 1,
+                    autoplay: true,
+                    autoplaySpeed: 5000,
+//                    mobileFirst: true,
+//                    adaptiveHeight: true,
+                    dots: true,
+                    infinite: true,
+                    speed: 500,
+                    fade: true,
+                    cssEase: 'linear'
+                });
+
+                $('.collapsable-slide').collapsable({
+                    fx: 'slide',
+                    fxDuration: 300
+                });
+
+                // Add smooth scrolling to all links
+                $("a.btn-scroll").on('click', function (event) {
+
+                    // Make sure this.hash has a value before overriding default behavior
+                    if (this.hash !== "") {
+                        // Prevent default anchor click behavior
+                        event.preventDefault();
+
+                        // Store hash
+                        var hash = this.hash;
+
+                        // Using jQuery's animate() method to add smooth page scroll
+                        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+                        $('html, body').animate({
+                            scrollTop: $(hash).offset().top - 44
+                        }, 800, function () {
+
+                            // Add hash (#) to URL when done scrolling (default click behavior)
+                            window.location.hash = hash;
+                        });
+                    } // End if
+                });
+            });
+        </script>
+        <!--<script src="js/bootstrap.min.js"></script>-->
+        <script src="js/script.js"></script>
+
+    </body>
+</html>
